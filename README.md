@@ -1,5 +1,10 @@
 # download-vue-good-table
 
+
+An example showing how to generate a CVS from vue-good-table data.
+Created using vue.js, vue-good-table, vue-cli and yarn.
+
+
 ## Project setup
 ```
 yarn install
@@ -22,4 +27,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-An example showing how to generate a CVS from vue-good-table data
