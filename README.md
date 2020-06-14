@@ -1,7 +1,7 @@
 # download-vue-good-table
 
 
-An example showing how to generate a CVS from vue-good-table data.
+An example showing how to generate a CSV from vue-good-table data.
 Created using vue.js, vue-good-table, vue-cli and yarn.
 
 
